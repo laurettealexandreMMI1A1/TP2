@@ -1,3 +1,13 @@
+body {
+	background: #B2AFA3;
+}
+a{
+text-decoration: none;
+color:#AC62B2;
+}
+a:hover {
+color: #0F7B55;
+}
 #container
 {
 	margin: 0 30px;
@@ -6,7 +16,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #01B0F0;
 	padding: 20px;
 }
 
@@ -88,7 +98,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #96CA2D;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
